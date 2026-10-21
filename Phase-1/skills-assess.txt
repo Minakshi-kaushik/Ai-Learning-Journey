@@ -1,0 +1,5 @@
+Python - medium to advance
+Numpy- medium to advance 
+Pandas- medium to advance
+Ml-metrics - need to start 
+Deployment- need to start
